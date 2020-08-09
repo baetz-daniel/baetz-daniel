@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi there, I'm Daniel 👋
 
-<!--
-**baetz-daniel/baetz-daniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a software developer from germany!
+- 🔭 I’m currently working on my [@exomia][github_exomia] projects!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+[<img alt="exomia | Website" width="44px" src="https://avatars2.githubusercontent.com/u/37782223" />][website_exomia]
+[<img alt="exomia | Discord" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord_exomia]
+[<img alt="exomia | Twitch" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][twitch_exomia]
+
+---
+
+![my github stats](https://github-readme-stats.vercel.app/api?username=baetz-daniel&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+[github_exomia]: https://github.com/exomia
+[website_exomia]: https://exomia.com
+[discord_exomia]: http://discord.exomia.com
+[twitch_exomia]: https://www.twitch.tv/exomia
