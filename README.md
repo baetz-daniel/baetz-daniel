@@ -13,8 +13,8 @@
 
 ---
 
-![my github stats](https://github-readme-stats.vercel.app/api?username=baetz-daniel&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baetz-daniel&layout=compact)
+<img align="left" alt="my github stats" src="https://github-readme-stats.vercel.app/api?username=baetz-daniel&show_icons=true" />
+<img alt="my top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baetz-daniel&layout=compact" />
 
 ---
 
