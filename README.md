@@ -1,6 +1,6 @@
 ### Hi there, I'm Daniel 👋
 
-## I'm a software developer from germany!
+## I'm a software developer from germany and the founder of the [@exomia][github_exomia] organisation!
 - 🔭 I’m currently working on my [@exomia][github_exomia] projects!
 
 ---
