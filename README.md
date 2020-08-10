@@ -12,10 +12,9 @@
 [<img alt="exomia | Twitch" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][twitch_exomia]
 
 ---
-<div>
-  <img alt="my github stats" src="https://github-readme-stats.vercel.app/api?username=baetz-daniel&show_icons=true" />
-  <img alt="my top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baetz-daniel&layout=compact" />
-</div>
+
+![github stats](https://github-readme-stats.vercel.app/api?username=baetz-daniel&show_icons=true)
+![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=baetz-daniel&layout=compact)
 
 [github_exomia]: https://github.com/exomia
 [website_exomia]: https://exomia.com
