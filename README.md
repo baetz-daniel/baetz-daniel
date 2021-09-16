@@ -13,8 +13,8 @@
 
 ---
 
-![github stats](https://github-readme-stats.vercel.app/api?username=baetz-daniel&show_icons=true)
-![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=baetz-daniel&layout=compact)
+![github stats](https://github-readme-stats.vercel.app/api?username=baetz-daniel&count_private=true&show_icons=true&theme=dark&include_all_commits=true&hide_rank=true)
+![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=baetz-daniel&layout=compact&theme=dark)
 
 [github_exomia]: https://github.com/exomia
 [website_exomia]: https://exomia.com
