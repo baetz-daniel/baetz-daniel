@@ -13,10 +13,8 @@
 
 ---
 
-![github stats](https://github-readme-stats.vercel.app/api?username=baetz-daniel&count_private=true&show_icons=true&include_all_commits=true&hide_rank=true&theme=dark#gh-dark-mode-only)
+![github stats](https://github-readme-stats.vercel.app/api/?username=baetz-daniel&count_private=true&show_icons=true&include_all_commits=true&hide_rank=true&theme=dark#gh-dark-mode-only)
 ![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=baetz-daniel&layout=compact&theme=dark#gh-dark-mode-only)
-![github stats](https://github-readme-stats.vercel.app/api?username=baetz-daniel&count_private=true&show_icons=true&include_all_commits=true&hide_rank=true&theme=light#gh-light-mode-only)
-![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=baetz-daniel&layout=compact&theme=light#gh-light-mode-only)
 
 [github_exomia]: https://github.com/exomia
 [website_exomia]: https://exomia.com
